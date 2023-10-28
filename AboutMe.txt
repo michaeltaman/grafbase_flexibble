@@ -6,3 +6,20 @@ https://www.youtube.com/watch?v=986hztrfaSQ&t=51s
 https://github.com/adrianhajdin/project_nextjs13_flexibble/tree/main
 
 
+
+Connect to Grafbase - endpoint/key
+-----------------------------------
+
+API URL:
+https://grafbaseflexibble-main-michaeltaman.grafbase.app/graphql
+
+API Key:
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2OTg0MTE1MzEsImlzcyI6ImdyYWZiYXNlIiwiYXVkIjoiMDFIRFJLRUpCRDg1NDU2NDhEQjEzR01QREIiLCJqdGkiOiIwMUhEUktFSlFTRVg5RDQxMEJLRVQ1QTIyWiIsImVudiI6InByb2R1Y3Rpb24iLCJwdXJwb3NlIjoicHJvamVjdC1hcGkta2V5In0.piCQApBRBdhEiXLG3bSlbf5Lncx59ZW2NADuplC6iSI
+
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2OTg0MTE1MzEsImlzcyI6ImdyYWZiYXNlIiwiYXVkIjoiMDFIRFJLRUpCRDg1NDU2NDhEQjEzR01QREIiLCJqdGkiOiIwMUhEUktFSlFTRVg5RDQxMEJLRVQ1QTIyWiIsImVudiI6InByb2R1Y3Rpb24iLCJwdXJwb3NlIjoicHJvamVjdC1hcGkta2V5In0.piCQApBRBdhEiXLG3bSlbf5Lncx59ZW2NADuplC6iSI
+
+Admin API URL
+https://grafbaseflexibble-main-michaeltaman.grafbase.app/admin
+
+
+
